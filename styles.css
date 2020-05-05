@@ -1,0 +1,21 @@
+
+h1 {
+	color: darkmagenta;
+	text-align: center;
+}
+
+img {
+	width: 50%;
+}
+
+p {
+	color: red;
+}
+
+#head, .item {
+	background-color: teal;
+	text-align: center;
+	width: 10vw;
+	height: 10vw;
+	margin: 20px;
+}
